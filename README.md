@@ -23,7 +23,7 @@ I'm a passionate developer currently specializing in **Web Application Developme
 ---
 
 ### 📫 Connect with me:
-- **Email:** adrianalvarezfreire2001@gmail.com
+- **Email:** adri.falvarez1@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/adrifalvarez/
 
 ---
